@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "変",
+  "base_artist": "TOOBOE",
+  "createdAt": "2025-12-27T07:42:42.082945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "変",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/01_変_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "変 - funny",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/02_変_-_funny_TOOBOE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "変",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_変_TOOBOE.txt"
+    }
+  ]
+}
